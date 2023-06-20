@@ -49,10 +49,10 @@ import java.util.Scanner;
           }
         }
       }else{
-        System.out.println("Aqui chegamos ao fim. Volte sempre");
+        System.out.println("Volte sempre");
       }
     }else{
-      System.out.println("Aqui chegamos ao fim. Volte sempre.");
+      System.out.println("Volte sempre.");
     }
     
 
