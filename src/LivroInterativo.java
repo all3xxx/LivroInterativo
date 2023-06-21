@@ -49,10 +49,10 @@ import java.util.Scanner;
           }
         }
       }else{
-        System.out.println("Agradecemos por utilizar nosso programa. Volte sempre");
+        System.out.println("Fim do programa.");
       }
     }else{
-      System.out.println("Agradecemos por utilizar nosso programa. Volte sempre.");
+      System.out.println("Fim do programa.");
     }
     
 
